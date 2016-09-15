@@ -1,5 +1,5 @@
 {
-  "name": "cmps-angular-ui-calendar",
+  "name": "cmps-ui-calendar",
   "version": "0.0.1",
   "main": "./src/calendar.js",
   "ignore": [
